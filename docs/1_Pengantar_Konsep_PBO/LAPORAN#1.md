@@ -84,7 +84,7 @@ dipecah kedalam sub-program atau fungsi. Sedangkan pada PBO, program dipecah ked
 
 (silakan kerjakan tugas di sini beserta `screenshot` hasil kompilasi program. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
 
-![tugas1](img/tugas1.JPG)
+![tugas1](img/tugas1.jpg)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/AC1841720026ntsy.java)
 
