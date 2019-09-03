@@ -76,7 +76,7 @@ Objek berbeda dengan class karena class adalah prototype dari objek.ambil contoh
 3. Pada pemrograman terstruktur, program
 dipecah kedalam sub-program atau fungsi. Sedangkan pada PBO, program dipecah kedalam objek,bdimana objek tersebut membungkus state dan method
 4. Merek ,gear,kecepatan.
-5. ![Soal5](img/Soal5.JPG)
+5. ![Soal5](img/Soal5.jpg)
 6. Karena pada dasarnaya sepeda dan sepedaGunung sama,maka kita tinggal wariskan saja dari class sepeda dan menambahkan fitur baru yaitu tambah suspensi dari class sepeda gunung. 
 
 
@@ -88,7 +88,7 @@ dipecah kedalam sub-program atau fungsi. Sedangkan pada PBO, program dipecah ked
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/AC1841720026ntsy.java)
 
-![tugas2](img/tugas2.JPG)
+![tugas2](img/tugas2.jpg)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/AC1841720026ntsyMain.java)
 
