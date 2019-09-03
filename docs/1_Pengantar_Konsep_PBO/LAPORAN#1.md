@@ -38,12 +38,15 @@ Penjelasan lebih detail tentang inheritance akan dibahas pada modul selanjutnya.
 2. Tambahkan kode extends Sepeda pada deklarasi class SepedaGunung. Kode extends ini
 menandakan bahwa class SepedaGunung mewarisi class Sepeda.
 3. Kemudian lengkapi kode SepedaGunung seperti berikut ini:
+
 ![percobaan2a](img/percobaan2a.JPG)
+
 4. Kemudian pada class main, tambahkan kode berikut ini:5. Cocokkan hasilnya:
+
 ![percobaan2b](img/percobaan2b.JPG)
 
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
 
 ## Pertanyaan
 
@@ -73,7 +76,7 @@ Objek berbeda dengan class karena class adalah prototype dari objek.ambil contoh
 3. Pada pemrograman terstruktur, program
 dipecah kedalam sub-program atau fungsi. Sedangkan pada PBO, program dipecah kedalam objek,bdimana objek tersebut membungkus state dan method
 4. Merek ,gear,kecepatan.
-5. 
+5. ![Soal5](img/Soal5.JPG)
 6. Karena pada dasarnaya sepeda dan sepedaGunung sama,maka kita tinggal wariskan saja dari class sepeda dan menambahkan fitur baru yaitu tambah suspensi dari class sepeda gunung. 
 
 
@@ -81,11 +84,13 @@ dipecah kedalam sub-program atau fungsi. Sedangkan pada PBO, program dipecah ked
 
 (silakan kerjakan tugas di sini beserta `screenshot` hasil kompilasi program. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+![tugas1](img/tugas1.JPG)
 
-![contoh screenshot](img/contoh-schot1.PNG)
+Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/AC1841720026ntsy.java)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+![tugas2](img/tugas2.JPG)
+
+Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/AC1841720026ntsyMain.java)
 
 ## Kesimpulan
 
