@@ -21,7 +21,7 @@ kemudian mengakses method didalam class tersebut.
 2. Buat class Sepeda. Klik kanan pada package sepedademo – New – Java Class.
 3. Ketikkan kode class Sepeda dibawah ini.
 
-!(img/percobaan1.jpg)
+![percobaan1](img/percobaan1.JPG)
 
 4. Kemudian pada class main, ketikkan kode berikut ini
 
@@ -38,7 +38,7 @@ menandakan bahwa class SepedaGunung mewarisi class Sepeda.
 3. Kemudian lengkapi kode SepedaGunung seperti berikut ini:
 4. Kemudian pada class main, tambahkan kode berikut ini:5. Cocokkan hasilnya:
 
-![contoh screenshot](img/contoh-schot1.PNG)
+![contoh screenshot](img/percobaan2a.JPG)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
