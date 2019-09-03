@@ -25,6 +25,8 @@ kemudian mengakses method didalam class tersebut.
 
 4. Kemudian pada class main, ketikkan kode berikut ini
 
+![percobaan1b](img/percobaan1b.JPG)
+
 Cocokkan hasilnya : 
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda.java)
@@ -36,9 +38,10 @@ Penjelasan lebih detail tentang inheritance akan dibahas pada modul selanjutnya.
 2. Tambahkan kode extends Sepeda pada deklarasi class SepedaGunung. Kode extends ini
 menandakan bahwa class SepedaGunung mewarisi class Sepeda.
 3. Kemudian lengkapi kode SepedaGunung seperti berikut ini:
+![percobaan2a](img/percobaan2a.JPG)
 4. Kemudian pada class main, tambahkan kode berikut ini:5. Cocokkan hasilnya:
+![percobaan2b](img/percobaan2b.JPG)
 
-![contoh screenshot](img/percobaan2a.JPG)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
