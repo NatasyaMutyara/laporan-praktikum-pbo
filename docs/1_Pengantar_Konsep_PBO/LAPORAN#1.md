@@ -21,7 +21,7 @@ kemudian mengakses method didalam class tersebut.
 2. Buat class Sepeda. Klik kanan pada package sepedademo – New – Java Class.
 3. Ketikkan kode class Sepeda dibawah ini.
 
-![percobaan1](img/percobaan1.JPG)
+![percobaan1a](img/percobaan1a.JPG)
 
 4. Kemudian pada class main, ketikkan kode berikut ini
 
