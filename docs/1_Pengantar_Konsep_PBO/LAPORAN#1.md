@@ -8,7 +8,8 @@
 
 ## Ringkasan Materi
 
-(berisi catatan penting pribadi selama praktikum berlangsung ataupun menemukan permasalahan khusus saat melakukan percobaan)
+Dari pengantar Konsep PBO ini telah mempelajari lebih lanjut tentang cara membuat class, membuat objek, dan mengakses method dalam class
+serta mendemonstrasikan fitur penting dalam PBO yaitu inheritance. 
 
 ## Percobaan
 
@@ -20,13 +21,13 @@ kemudian mengakses method didalam class tersebut.
 2. Buat class Sepeda. Klik kanan pada package sepedademo – New – Java Class.
 3. Ketikkan kode class Sepeda dibawah ini.
 
-!(img/contoh-schot1.PNG)
+!(img/percobaan1.jpg)
 
 4. Kemudian pada class main, ketikkan kode berikut ini
 
 Cocokkan hasilnya : 
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda.java)
 
 ### Percobaan 2
 
