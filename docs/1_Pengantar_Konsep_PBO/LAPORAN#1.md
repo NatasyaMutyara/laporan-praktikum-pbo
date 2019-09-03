@@ -14,11 +14,13 @@
 
 ### Percobaan 1
 
-(berisi penjelasan percobaan 1. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+Didalam percobaan ini, kita akan mendemonstrasikan bagaimana membuat class, membuat object,
+kemudian mengakses method didalam class tersebut.
+1. Buka Netbeans, buat project SepedaDemo.
+2. Buat class Sepeda. Klik kanan pada package sepedademo – New – Java Class.
+3. Ketikkan kode class Sepeda dibawah ini.
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
-
-![contoh screenshot](img/contoh-schot1.PNG)
+!(img/contoh-schot1.PNG)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
