@@ -22,13 +22,20 @@ kemudian mengakses method didalam class tersebut.
 
 !(img/contoh-schot1.PNG)
 
+4. Kemudian pada class main, ketikkan kode berikut ini
+
+Cocokkan hasilnya : 
+
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
 ### Percobaan 2
 
-(berisi penjelasan percobaan 2. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
-
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+Penjelasan lebih detail tentang inheritance akan dibahas pada modul selanjutnya.
+1. Masih pada project SepedaDemo. Buat class SepedaGunung.
+2. Tambahkan kode extends Sepeda pada deklarasi class SepedaGunung. Kode extends ini
+menandakan bahwa class SepedaGunung mewarisi class Sepeda.
+3. Kemudian lengkapi kode SepedaGunung seperti berikut ini:
+4. Kemudian pada class main, tambahkan kode berikut ini:5. Cocokkan hasilnya:
 
 ![contoh screenshot](img/contoh-schot1.PNG)
 
@@ -36,7 +43,35 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 ## Pertanyaan
 
-(silakan ketik pertanyaan di sini beserta jawabannya.)
+1. Sebutkan dan jelaskan aspek-aspek yang ada pada pemrograman berorientasi objek!
+2. Apa yang dimaksud dengan object dan apa bedanya dengan class?
+3. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan
+dengan pemrograman struktural!
+4. Pada class Sepeda, terdapat state/atribut apa saja?
+5. Tambahkan atribut warna pada class Sepeda.
+6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari
+nol?
+
+Jawaban :
+1. Objek : suatu rangkaian dalam program yang terdiri dari state dan behaviour.
+
+Class : blueprint atau prototype dari objek
+
+Enkapsulasi:suatu mekanisme untuk menyembunyikan suatu proses dari kemungkinan    penyalahgunaan dari luar sistem dan sekaligus menyederhanakan penggunaan sistem tersebut
+
+Inheritance: kemampuan sebuah class untuk menurunkan method yang dimilikinya kedalam class lain
+
+Polimorfisme : kemampuan sebuah object untuk mempunyai banyak bentuk melalui satu cara yang sama
+
+2. Objek adalah suatu rangkaian dalam program yang terdiri dari state dan behaviour.
+Objek berbeda dengan class karena class adalah prototype dari objek.ambil contoh yaitu mobil. Mobil adalah class sementara mobil sport adalah objek.
+
+3. Pada pemrograman terstruktur, program
+dipecah kedalam sub-program atau fungsi. Sedangkan pada PBO, program dipecah kedalam objek,bdimana objek tersebut membungkus state dan method
+4. Merek ,gear,kecepatan.
+5. 
+6. Karena pada dasarnaya sepeda dan sepedaGunung sama,maka kita tinggal wariskan saja dari class sepeda dan menambahkan fitur baru yaitu tambah suspensi dari class sepeda gunung. 
+
 
 ## Tugas
 
@@ -50,7 +85,16 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 ## Kesimpulan
 
-(Berisi simpulan yang telah diperoleh selama praktikum atau belajar pada pertemuan ini)
+Dari percobaan diatas, kita telah mendemonstrasikan bagaimana paradigma pemrograman
+berorientasi objek dan mengimplementasikannya kedalam program sederhana. Kita juga telah
+mendemonstrasikan salah satu fitur paling penting dari PBO yaitu inheritance, yaitu dalam hal
+membuat class SepedaGunung.
+Kita ketahui bahwa SepedaGunung pada dasarnya adalah sama dengan Sepeda (memiliki gear,
+memiliki kecepatan, dapat menambah kecepatan, dapat mengerem, pindah gigi, dsb) namun ada
+fitur tambahan yaitu tipe suspensi. Maka kita tidak perlu membuat class SepedaGunung dari nol,
+kita extends atau wariskan saja dari class Sepeda, kemudian kita tinggal tambahkan fitur yang
+sebelumnya belum ada di class Sepeda. Inilah salah satu kelebihan PBO yang tidak ada di
+pemrograman struktural
 
 ## Pernyataan Diri
 
@@ -60,4 +104,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(silakan isi nama lengkap di sini)***
+***Natasya Mutyara***
