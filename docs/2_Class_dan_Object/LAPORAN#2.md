@@ -30,7 +30,7 @@ karyawan memiliki id, nama, jenis kelamin, jabatan, jabatan, dan gaji. Setiap ma
 juga bisa menampilkan data diri pribadi dan melihat gajinya.
 1. Gambarkan desain class diagram dari studi kasus 1!
 
-    ![praktikum1](img/praktikum1.JPG)
+    ![praktikum1](img/praktikum1.jpg)
 
 2. Sebutkan Class apa saja yang bisa dibuat dari studi kasus 1!,
   Jawaban : 
