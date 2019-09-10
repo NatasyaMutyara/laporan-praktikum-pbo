@@ -60,7 +60,7 @@ kasus 1!
 1. Bukalah text editor atau IDE, misalnya Notepad ++ / netbeans.
 2. Ketikkan kode program berikut ini:
 
-    ![p2](img/p2.JPG)
+    ![p2](img/p2.jpg)
 3. Simpan dengan nama file Mahasiswa.java.
 4. Untuk dapat mengakses anggota-anggota dari suatu obyek, maka harus dibuat instance
 dari class tersebut terlebih dahulu. Berikut ini adalah cara pengaksesan anggotaanggota dari class Mahasiswa dengan membuka file baru kemudian ketikkan kode
@@ -68,9 +68,9 @@ program berikut:
 5. Simpan file dengan TestMahasiswa.java
 Contoh link kode program : [Mahasiswa](../../src/2_Class_dan_Object/Mahasiswa.java)
 
-    ![p3](img/p3.JPG)
+    ![p3](img/p3.jpg)
 6. Jalankan class TestMahasiswa
-    ![hasilTest](img/hasilTest.JPG)
+    ![hasilTest](img/hasilTest.jpg)
 7. Jelaskan pada bagian mana proses pendeklarasian atribut pada program diatas!
 
     Jawaban :
@@ -120,7 +120,7 @@ Contoh link kode program : [Mahasiswa](../../src/2_Class_dan_Object/Mahasiswa.ja
 
     Jawaban : 
 
-    ![p4](img/p4.JPG)
+    ![p4](img/p4.jpg)
 
 
 Contoh link kode program : [TestMahasiswa](../../src/2_Class_dan_Object/TestMahasiswa.java)
@@ -131,14 +131,14 @@ Langkah kerja:
 1. Bukalah text editor atau IDE, misalnya Notepad ++ / netbeans.
 2. Ketikkan kode program berikut ini:
 
-    ![barang](img/barang.JPG)
+    ![barang](img/barang.jpg)
 3. Simpan dengan nama file Barang.java
     
     Contoh link kode program : Contoh link kode program : [Barang](../../src/2_Class_dan_Object/Barang.java)
 4. Untuk dapat mengakses anggota-anggota dari suatu obyek, maka harus dibuat instance
 dari class tersebut terlebih dahulu. Berikut ini adalah cara pengaksesan anggotaanggota dari class Barang dengan membuka file baru kemudian ketikkan kode program
 berikut:
-    ![TestBarang](img/TestBarang.JPG)
+    ![TestBarang](img/TestBarang.jpg)
 
 
 5. Simpan dengan nama file TestBarang.java
@@ -146,7 +146,7 @@ berikut:
     Contoh link kode program : Contoh link kode program : [TestMBarang](../../src/2_Class_dan_Object/TestBarang.java)
 
 6. Jalankan program tersebut!
-    ![main](img/main.JPG)
+    ![main](img/main.jpg)
 
 7. Apakah fungsi argumen dalam suatu method?
 
@@ -171,10 +171,10 @@ diagram pada studi kasus diatas!
 Penjelasan:
 
 -  Harga yang harus dibayar diperoleh dari lama sewa x harga.
-![tugas1](img/tugas1.JPG)
+![tugas1](img/tugas1.jpg)
 
 - Diasumsikan 1x transaksi peminjaman game yang dipinjam hanya 1 game saja.
-![tugas1main](img/tugas1main.JPG)
+![tugas1main](img/tugas1main.jpg)
 
 2. Buatlah program dari class diagram yang sudah anda buat di no 1!
 Contoh link kode program : Contoh link kode program : [Tugas 1](../../src/2_Class_dan_Object/Tugas1_1841720026ntsy.java)
@@ -183,10 +183,10 @@ Contoh link kode program : Contoh link kode program : [Tugas 1](../../src/2_Clas
 
 3. Buatlah program sesuai dengan class diagram berikut ini:
 
-    ![tugas 3](img/tugas3.JPG)
+    ![tugas 3](img/tugas3.jpg)
     Contoh link kode program : Contoh link kode program : [Tugas 3](../../src/2_Class_dan_Object/Tugas3_1841720026ntsy.java)
 
-    ![tugas 3 main](img/tugas3main.JPG)
+    ![tugas 3 main](img/tugas3main.jpg)
     Contoh link kode program : Contoh link kode program : [Tugas 3 main](../../src/2_Class_dan_Object/Tugas3main_1841720026ntsy.java)
 
 4. Buatlah program sesuai dengan class diagram berikut ini:
@@ -196,11 +196,11 @@ Deskripsi / Penjelasan :
 perhitungan berikut ini:
 harga jual = harga dasar – (diskon x harga dasar)
 
-  ![tugas 4](img/tugas4.JPG)
+  ![tugas 4](img/tugas4.jpg)
 
   Contoh link kode program : Contoh link kode program : [Tugas 4](../../src/2_Class_dan_Object/Tugas4_1841720026ntsy.java)
   
-  ![tugas 4 main](img/tugas4main.JPG)
+  ![tugas 4 main](img/tugas4main.jpg)
 
   Contoh link kode program : Contoh link kode program : [Tugas 4 main](../../src/2_Class_dan_Object/Tugas4main_1841720026ntsy.java)
 
