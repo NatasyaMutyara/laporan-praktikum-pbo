@@ -27,11 +27,11 @@ dan memiliki method printStatus() untuk menampilkan status motor. Seperti beriku
 2. Buat class Motor. Klik kanan pada package motorencapsulation – New – Java Class.
 3. Ketikkan kode class Motor dibawah ini.
 
-    ![percobaan1a](img/motor.jpg)
+    ![percobaan1a](img/Motor.jpg)
 
 4. Kemudian pada class main, ketikkan kode berikut ini
 
-    ![percobaan1b](img/motorDemo.jpg)
+    ![percobaan1b](img/MotorDemo.jpg)
 
 Cocokkan hasilnya : 
     ![MotorDemoHasil](img/MotorDemoHasil.jpg)
@@ -51,15 +51,15 @@ Contoh link kode program MotorDemo: [ini contoh link ke kode program Motor Demo]
 
    Implementasi class Motor adalah sebagai berikut:
 
-   ![percobaan2a](img/motor2.jpg)
+   ![percobaan2a](img/Motor2.jpg)
 
 3. Kemudian pada class MotorDemo, ubah code menjadi seperti berikut:
 
-   ![percobaan2a](img/motorDemo2.jpg)
+   ![percobaan2a](img/MotorDemo2.jpg)
 
 4. Hasilnya dari class MotorDemo adalah sebagai berikut:
 
-    ![percobaan2a](img/motorDemo2.jpg)
+    ![percobaan2a](img/MotorDemo2.jpg)
 
 
 Contoh link kode program Motor: [ini contoh link ke kode program Motor](../../src/3_Enkapsulasi/Motor1841720026Ntsy.java)
