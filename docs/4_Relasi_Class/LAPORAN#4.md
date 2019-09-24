@@ -80,10 +80,13 @@
     Hasil :
 
 ![Processor1](img/Processor1.jpg)
+Contoh link kode program : [ini contoh link ke kode program ](../../src/4_Relasi_Class/Processor_1841720026Ntsy.java)
 
 ![Laptop1](img/Laptop1.jpg)
+Contoh link kode program : [ini contoh link ke kode program ](../../src/4_Relasi_Class/Laptop_1841720026Ntsy.java)
 
 ![Main1](img/MainPercobaan1.jpg)
+Contoh link kode program : [ini contoh link ke kode program ](../../src/4_Relasi_Class/MainPercobaan1.java)
 
 ### Pertanyaan
 
@@ -191,12 +194,16 @@ menyewa mobil sekaligus sopir. Biaya sopir dan biaya sewa mobil dihitung per har
     m. Compile dan jalankan class MainPercobaan2, dan perhatikan hasilnya!
 
 ![Mobil2](img/Mobil2.jpg)
+Contoh link kode program : [ini contoh link ke kode program ](../../src/4_Relasi_Class/Mobil_1841720026Ntsy.java)
 
 ![Sopir2](img/Sopir2.jpg)
+Contoh link kode program : [ini contoh link ke kode program ](../../src/4_Relasi_Class/Sopir_1841720026Ntsy.java)
 
 ![Pelanggan2](img/Pelanggan3.jpg)
+Contoh link kode program : [ini contoh link ke kode program ](../../src/4_Relasi_Class/Pelanggan_1841720026Ntsy.java)
 
 ![Main2](img/MainPercobaan2.jpg)
+Contoh link kode program : [ini contoh link ke kode program ](../../src/4_Relasi_Class/MainPercobaan2.java)
 
 ### Pertanyaan
 1. Perhatikan class Pelanggan. Pada baris program manakah yang menunjukan bahwa class Pelanggan memiliki relasi dengan class Mobil dan class Sopir ?
@@ -411,12 +418,16 @@ Hasilnya Error
         System.out.println(gerbong.info());
 
 ![](img/Penumpang4.jpg)
+Contoh link kode program : [ini contoh link ke kode program ](../../src/4_Relasi_Class/Penumpang_1841720026Ntsy.java)
 
 ![](img/Kursi4.jpg)
+Contoh link kode program : [ini contoh link ke kode program ](../../src/4_Relasi_Class/Kursi_1841720026Ntsy.java)
 
 ![](img/Gerbong4.jpg)
+Contoh link kode program : [ini contoh link ke kode program ](../../src/4_Relasi_Class/Gerbong_1841720026Ntsy.java)
 
 ![](img/MainPercobaan4.jpg)
+Contoh link kode program : [ini contoh link ke kode program ](../../src/4_Relasi_Class/MainPercobaan4.java)
 
 ### Pertanyaan
 1.	Pada main program dalam class MainPercobaan4, berapakah jumlah kursi dalam Gerbong A?
