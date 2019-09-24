@@ -7,7 +7,7 @@
 2. Mengimplementasikan relasi has‑a dalam program.
 
 ## Ringkasan Materi
-
+Setelah mengerjakan Jobsheet ini saya dapat memahami cara relasi kelas beserta Mengimplementasikan relasi has‑a dalam program.
 
 ## Percobaan
 
