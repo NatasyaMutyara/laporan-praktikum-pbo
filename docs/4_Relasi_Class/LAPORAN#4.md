@@ -194,7 +194,7 @@ menyewa mobil sekaligus sopir. Biaya sopir dan biaya sewa mobil dihitung per har
 
 ![Sopir2](img/Sopir2.jpg)
 
-![Pelanggan2](img/Pelanggan2.jpg)
+![Pelanggan2](img/Pelanggan3.jpg)
 
 ![Main2](img/MainPercobaan2.jpg)
 
@@ -313,7 +313,7 @@ Contoh link kode program : [ini contoh link ke kode program ](../../src/4_Relasi
 
 ![Main3](img/MainPercobaan3.jpg)
 
-Contoh link kode program : [ini contoh link ke kode program ](../../src/4_Relasi_Class/MainPercobaan3_1841720026Ntsy.java)
+Contoh link kode program : [ini contoh link ke kode program ](../../src/4_Relasi_Class/MainPercobaan3.java)
 
 
 
