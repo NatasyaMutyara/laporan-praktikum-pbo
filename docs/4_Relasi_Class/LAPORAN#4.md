@@ -449,10 +449,11 @@ Contoh link kode program : [ini contoh link ke kode program ](../../src/4_Relasi
 
 5.	Modifikasi program sehingga, tidak diperkenankan untuk menduduki kursi yang sudah ada penumpang lain!
     
-    Jawab :![](img/MainPercobaan43.jpg)
+    Jawab :![](img/MainPercobaan423.jpg)
 
 ## TUGAS
 
 Buatlah sebuah studi kasus, rancang dengan class diagram, kemudian implementasikan ke dalam
 program! Studi kasus harus mewakili relasi class dari percobaan‑percobaan yang telah dilakukan
 pada materi ini, setidaknya melibatkan minimal 4 class (class yang berisi main tidak dihitung).
+![](img/Tugas.jpg)Contoh link kode program : [ini contoh link ke kode program ](../../src/4_Relasi_Class/TUGAS1.java)
