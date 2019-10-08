@@ -240,7 +240,7 @@ class	yaitu	class	StaffTetap	dan	class	StaffHarian.	Kode	Programnya	adalah	sebag
 3. Setelah	membuat	dua	class	diatas	kemudian	edit	class	inheritance1.java	menjadi	sebagai	
 berikut:
 4. Jalankan	program	maka	tampilanny	adalah	sebagai	berikut:
-![contoh screenshot](img/main6.PNG)
+![contoh screenshot](img/main6.png)
 
 ### Pertanyaan Percobaan 6
 1.Berdasarkan class diatas manakah yang termasuk single inheritance dan mana yang termasuk multilevel inheritance?
