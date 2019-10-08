@@ -22,11 +22,11 @@ Single inheritance adalah Suatu class yang hanya mempunyai satu parent class. Mu
 
 ### Percobaan 1
 1. Buatlah	sebuah	class	parent/superclass	dengan	nama	ClassA.java2
-![contoh screenshot](img/classA.PNG) 
+![contoh screenshot](img/classA.png) 
 2. Buatlah	sebuah	class	anak/subclass	dengan	nama ClassB.java
-![contoh screenshot](img/classB.PNG)
+![contoh screenshot](img/classB.png)
 3. Buatlah	class	Percobaan1.java	untuk	menjalankan	program	diatas!
-![contoh screenshot](img/Main1.PNG)
+![contoh screenshot](img/Main1.png)
 4. Jalankan	program	diatas,	kemudian	amati	apa	yang	terjadi!
 
 
@@ -55,11 +55,11 @@ Single inheritance adalah Suatu class yang hanya mempunyai satu parent class. Mu
 
 ### Percobaan 2
 1. Buatlah	sebuah	class	parent/superclass	dengan	nama	ClassA.java
-![contoh screenshot](img/classA2.PNG) 
+![contoh screenshot](img/classA2.png) 
 2. Buatlah	sebuah	class	anak/subclass	dengan	nama	ClassB.java
-![contoh screenshot](img/classB2.PNG) 
+![contoh screenshot](img/classB2.png) 
 3. Buatlah	class	Percobaan2.java	untuk	menjalankan	program	diatas!4. Jalankan	program	diatas,	kemudian	amati	apa	yang	terjadi!
-![contoh screenshot](img/Main1b.PNG) 
+![contoh screenshot](img/Main1b.png) 
 
     Link kode program : 
 
@@ -82,10 +82,10 @@ Single inheritance adalah Suatu class yang hanya mempunyai satu parent class. Mu
 ### Percobaan 3
 
 1. Buatlah	sebuah	class	parent/superclass	dengan	nama	Bangun.java
-![contoh screenshot](img/tabung.PNG)
+![contoh screenshot](img/tabung.png)
 2. Buatlah	sebuah	class	anak/subclass	dengan
-![contoh screenshot](img/bangun.PNG)	nama	Tabung.java3. Buatlah	class	Percobaan3.java	untuk	menjalankan	program	diatas!
-![contoh screenshot](img/main2.PNG)
+![contoh screenshot](img/bangun.png)	nama	Tabung.java3. Buatlah	class	Percobaan3.java	untuk	menjalankan	program	diatas!
+![contoh screenshot](img/main2.png)
 4. Jalankan	program	diatas!
 
 
@@ -125,16 +125,16 @@ tersebut	dapat	mengakses	atribut	tersebut!
 
 1. Buatlah	tiga	file	dengan	nama	ClassA.java	,	ClassB.java	,	dan	ClassC.java,	seperti	pada	kode	program	dibawah	ini!
     - ClassA.java
-    ![contoh screenshot](img/classA4.PNG)
+    ![contoh screenshot](img/classA4.png)
 
     - ClassB.java
-    ![contoh screenshot](img/classB4.PNG)
+    ![contoh screenshot](img/classB4.png)
 
     - ClassC.java 
-    ![contoh screenshot](img/classC4.PNG)
+    ![contoh screenshot](img/classC4.png)
 2. Buatlah	class	Percobaan4.java	untuk	menjalankan	program	diatas!
 
-    ![contoh screenshot](img/main4.PNG)
+    ![contoh screenshot](img/main4.png)
 
 3. Jalankan	program	kemudian	amati	apa	yang	terjadi!
 
@@ -181,13 +181,13 @@ Jawaban :
 ### Percobaan 5
 
 1. Buatlah	class	Karyawan
-    ![contoh screenshot](img/karyawan.PNG)	
+    ![contoh screenshot](img/karyawan.png)	
 2. Buatlah	class	Manager	
-    ![contoh screenshot](img/manager.PNG)
+    ![contoh screenshot](img/manager.png)
 3. Buatlah	class	Staff	
-    ![contoh screenshot](img/staff.PNG)
+    ![contoh screenshot](img/staff.png)
 4. Buatlah	class	inheritance1
-    ![contoh screenshot](img/main5.PNG)
+    ![contoh screenshot](img/main5.png)
 5. Jalankan	program,	maka	tampilanya	adalah	sebagai	berikut:
 
     Link kode program   :
@@ -232,10 +232,10 @@ Sub class : class Manager dan class Staff
 2. Berdasarkan	program	yang	sudah	anda	buat	pada	percobaan	1	sebelumnya	tambahkan	dua	
 class	yaitu	class	StaffTetap	dan	class	StaffHarian.	Kode	Programnya	adalah	sebagai	berikut
     - Class	StaffTetap.java
-        ![contoh screenshot](img/tetap.PNG)	
+        ![contoh screenshot](img/tetap.png)	
         - [StaffTetap](../../src/6_Inheritance/StaffTetap_1841720026Ntsy.java)
     - Class	StaffHarian.java
-        ![contoh screenshot](img/harian.PNG)
+        ![contoh screenshot](img/harian.png)
         - [StaffHarian](../../src/6_Inheritance/Staffharian_1841720026Ntsy.java)	
 3. Setelah	membuat	dua	class	diatas	kemudian	edit	class	inheritance1.java	menjadi	sebagai	
 berikut:
@@ -284,26 +284,26 @@ Atribut yang diwarisi dari class Staff : lembur dan potongan
 
 1. Buatlah sebuah program dengan konsep pewarisan seperti pada class diagram berikut ini. Kemudian buatlah instansiasi objek untuk menampilkan data pada class Mac, Windows dan Pc!.
 
-![contoh screenshot](img/komputer.PNG)
+![contoh screenshot](img/komputer.png)
 
 
 - [Komputer](../../src/6_Inheritance/Komputer_1841720026Ntsy.java)
 
-![contoh screenshot](img/laptop.PNG)
+![contoh screenshot](img/laptop.png)
 
 - [Laptop](../../src/6_Inheritance/Laptop_1841720026Ntsy.java)
 
-![contoh screenshot](img/pc.PNG)
+![contoh screenshot](img/pc.png)
 
 - [PC](../../src/6_Inheritance/PC_1841720026Ntsy.java)
 
-![contoh screenshot](img/mac.PNG)
+![contoh screenshot](img/mac.png)
 - [Mac](../../src/6_Inheritance/Mac_1841720026Ntsy.java)
 
 
-![contoh screenshot](img/windows.PNG)
+![contoh screenshot](img/windows.png)
 - [Windows](../../src/6_Inheritance/Windows_1841720026Ntsy.java)
 
-- Class Main, ![contoh screenshot](img/tugas.PNG)
+- Class Main, ![contoh screenshot](img/tugas.png)
 
 - [Tugas](../../src/6_Inheritance/MainTugas_1841720026Ntsy.java)
