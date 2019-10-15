@@ -27,7 +27,7 @@ Staff memiliki method untuk menghitung gaji yang berbeda.
 
 - Karyawan
 
-    ![Karyawan1](img/Karyawan1.png)
+    ![Karyawan1](img/Karyawan1.PNG)
 
     ![Karyawan2](img/Karyawan2.png)
 
