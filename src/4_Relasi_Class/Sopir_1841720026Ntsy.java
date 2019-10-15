@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -37,3 +38,44 @@ public class Sopir_1841720026Ntsy {
 
 }
 
+=======
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package demorentalmobil;
+
+/**
+ *
+ * @author NatasyaMutyara
+ */
+public class Sopir_1841720026Ntsy {
+
+    private String nama;
+    private int biaya;
+    
+    Sopir_1841720026Ntsy(){
+              
+    }
+    public void setNama(String nama){    
+        this.nama=nama;
+    }
+    public String getNama(){
+        return nama;
+    
+      }
+    public void setBiaya(int biaya){
+        
+        this.biaya=biaya;
+    }
+    public int getBiaya(){
+        return biaya;
+    }  
+        public int hitungBiayaSopir(int hari){
+            return biaya * hari; 
+    } 
+
+}
+
+>>>>>>> 97a0ab54d89336087ed30df0b9698a92411a58b7
