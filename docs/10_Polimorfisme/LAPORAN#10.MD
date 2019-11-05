@@ -11,7 +11,7 @@ d.   Menerapkan polimorfisme pada parameter/argument method
 e.   Menerapkan object casting untuk meng-ubah bentuk objek
 
 ## Ringkasan Materi
-
+    Polimorfisme merupakan kemampuan suatu objek untuk memiliki banyak bentuk. Penggunaan polimorfisme yang paling umum dalam OOP terjadi ketika ada referensi super class yang digunakan untuk merujuk ke objek dari sub class. Dengan kata lain, ketika ada suatu objek yang dideklarasikan dari super class, maka objek tersebut bisa diinstansiasi sebagai objek dari sub class. Dari uraian tersebut bisa dilihat bahwa konsep polimorfisme bisa diterapkan pada class-class yang memiliki relasi inheritance (relasi generalisasi atau IS-A).
 
 ## Percobaan
 
@@ -113,9 +113,56 @@ Mengapa terjadi error?
 4.	untuk mengecek apakah objek p merupakan hasil instansiasi dari class ElectricityBill
 5.	untuk mengubah tipe objek tersebut
 
-## Kesimpulan
 
 ## Tugas
+Dalam suatu permainan, Zombie dan Barrier bisa dihancurkan oleh Plant dan
+bisa menyembuhkan diri. Terdapat dua jenis Zombie, yaitu Walking Zombie
+dan Jumping Zombie. Kedua Zombie tersebut memiliki cara penyembuhan
+yang berbeda, demikian juga cara penghancurannya, yaitu ditentukan oleh
+aturan berikut ini:
+• Pada WalkingZombie
+o Penyembuhan : Penyembuhan ditentukan berdasar level
+zombie yang bersangkutan
+§ Jika zombie level 1, maka setiap kali penyembuhan,
+health akan bertambah 20%
+§ Jika zombie level 2, maka setiap kali penyembuhan,
+health akan bertambah 30%
+§ Jika zombie level 3, maka setiap kali penyembuhan,
+health akan bertambah 40%
+o Penghancuran : setiap kali penghancuran, health akan
+berkurang 2%
+• Pada Jumping Zombie
+o Penyembuhan : Penyembuhan ditentukan berdasar level
+zombie yang bersangkutan
+§ Jika zombie level 1, maka setiap kali penyembuhan,
+health akan bertambah 30%
+§ Jika zombie level 2, maka setiap kali penyembuhan,
+health akan bertambah 40%
+§ Jika zombie level 3, maka setiap kali penyembuhan,
+health akan bertambah 50%
+o Penghancuran : setiap kali penghancuran, health akan
+berkurang 1%
+
+![contoh screenshot](img/t1.jpg)
+[Source code](../../src/10_Polimorfisme/Barrier1841720026NTSY.java)
+![contoh screenshot](img/t2.jpg)
+[Source code](../../src/10_Polimorfisme/Destroyable1841720026NTSY.java)
+![contoh screenshot](img/t3.jpg)
+[Source code](../../src/10_Polimorfisme/JumpingZombie1841720026NTSY.java)
+![contoh screenshot](img/t4.jpg)
+[Source code](../../src/10_Polimorfisme/Plant1841720026NTSY.java)
+![contoh screenshot](img/t5.jpg)
+[Source code](../../src/10_Polimorfisme/WalkingZombie1841720026NTSY.java)
+![contoh screenshot](img/t6.jpg)
+[Source code](../../src/10_Polimorfisme/Zombie1841720026NTSY.java)
+![contoh screenshot](img/t7.jpg)
+[Source code](../../src/10_Polimorfisme/Tester1841720026NTSY.java)
+
+
+## Kesimpulan
+
+dari Jobsheet ini telah diajarkan untuk Memahami konsep dan bentuk dasar polimorfisme, virtual method invication serta cara Menerapkan polimorfisme pada pembuatan heterogeneous collection, polimorfisme pada parameter/argument method, dan Menerapkan object casting untuk meng-ubah bentuk objek
+
 
 ## Pernyataan Diri
 
