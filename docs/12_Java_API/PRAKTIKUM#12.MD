@@ -105,11 +105,8 @@ Untuk menghapus item dengan key 1.
 > Jawab :
 Untuk menghapus semua data yang ada pada hMapItem.
 5. Tambahkan kode program yang di blok pada program yang sudah anda buat!
-> Jawab :
-![percobaan3a](img/p3jwb56.PNG)
 6. Jalankan program dan amati apa yang terjadi!
-> Jawab :
-![percobaan3a](img/p3jwb56.PNG)
+
 
 ## Percobaan 4 (Implementasi ArrayList dalam GUI)
 
