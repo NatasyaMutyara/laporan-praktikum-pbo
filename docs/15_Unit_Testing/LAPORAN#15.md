@@ -135,9 +135,9 @@ di parameter method JUnitCore.runClasses() saja. Jika test Runner di run
 hasilnya adalah sebagai berikut:
 
 
-![percobaan1a](img/messageProcessor.JPEG)
+![percobaan1a](img/messageProcessor.jpg)
 
-![percobaan1a](img/learnUnitTesting.JPEG)
+![percobaan1a](img/learnUnitTesting.jpg)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/15_Unit_Testing_/MessageProcessor1841720026Ntsy.java)
 
