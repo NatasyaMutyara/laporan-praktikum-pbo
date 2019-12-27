@@ -33,7 +33,7 @@ phpMyAdmin, buat database dbperpus, dan tabel-tabelnya:
 Set semua primary key id pada tiap tabel (idanggota, idkategori, idpeminjaman, idbuku) dengan
 Auto Increment.
 
-![percobaan1a](img/Database.JPG)
+![percobaan1a](img/Database.jpg)
 
 ### Percobaan 2
 Mempersiapkan project.
