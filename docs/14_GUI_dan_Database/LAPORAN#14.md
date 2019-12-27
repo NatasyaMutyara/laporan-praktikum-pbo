@@ -43,7 +43,7 @@ Mempersiapkan project.
 kanan pada Source Packages → New → Java Package, beri nama package nya (frontend,
 backend).
 
-![percobaan2a](img/2.JPG)
+![percobaan2a](img/2.jpg)
 
 ### Percobaan 3
 Membuat class helper untuk mengeksekusi query SQL.
@@ -62,7 +62,7 @@ setting database yang terinstall di sistem anda. Namun jika anda install XAMPP s
 maka setting ini tidak perlu diubah, mungkin nama database saja yang perlu disesuaikan.
 Silahkan COPAS kode berikut ini.
 
-![percobaan3](img/DBhelper.JPG)
+![percobaan3](img/DBhelper.jpg)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/14_GUI_dan_Database/DBHelper1841720026ntsy.java)
 
@@ -92,7 +92,7 @@ sudah ada, maka otomatis update.
 database.
 
 
-![percobaan3](img/Kategori.JPG)
+![percobaan3](img/Kategori.jpg)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/14_GUI_dan_Database/Kategori1841720026ntsy.java)
 
@@ -104,7 +104,7 @@ berfungsi dengan baik.
 2. Berikut kode lengkap untuk class TestBackend. Silahkan di COPAS.
 3. Jalankan TestBackend dengan klik kanan, Run File. Cocokkan outputnya:
 
-![percobaan3](img/Testbackend.JPG)
+![percobaan3](img/Testbackend.jpg)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/14_GUI_dan_Database/TestBackend1841720026ntsy.java)
 
@@ -116,7 +116,7 @@ Pada percobaan ini kita akan membuat interface GUI untuk class Kategori.
 pada package frontend → New →JFrame Form.
 2. Susun form sehingga seperti berikut ini, atur propertinya sesuai nomor:
 
-![percobaan3](img/FormKategori.JPG)
+![percobaan3](img/FormKategori.jpg)
 
 3. Edit kodenya, tambahkan import backend.*, java.util.ArrayList,
 javax.swing.table.DefaultTableModel;
@@ -148,7 +148,7 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/14_GUI_da
 Lakukan hal yang sama untuk data Anggota!
 1. Buat class Anggota pada package backend, lengkapi atribut dan method-nya.
 2. Lakukan test pada class TestBackend pada package frontend.
-![percobaan3](img/Anggota.JPG)
+![percobaan3](img/Anggota.jpg)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/14_GUI_dan_Database/Anggota1841720026ntsy.java)
 
@@ -156,7 +156,7 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/14_GUI_da
 Buat form untuk data Anggota.
 1. Buat FrmAnggota pada package frontend dan lengkapi komponen, method serta event-nya.
 
-![percobaan3](img/FormAnggota.JPG)
+![percobaan3](img/FormAnggota.jpg)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/14_GUI_dan_Database/FormAnggota1841720026ntsy.java)
 
@@ -172,7 +172,7 @@ b. Query select yang melibatkan join table pada method getById(), getAll() dan s
 Kode lengkap class Buku dapat anda lihat di Lampiran 1. Untuk test buku pada frontend, bisa anda
 lihat di Lampiran 2.
 
-![percobaan3](img/Buku.JPG)
+![percobaan3](img/Buku.jpg)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/14_GUI_dan_Database/Buku1841720026ntsy.java)
 
@@ -207,7 +207,7 @@ kanan pada tblBuku, pilih Events → Mouse → MouseClicked. Tambahkan kode beri
 13. Jalankan form dengan opsi Run File. Kemudian ujicoba tambah baru, edit, hapus, cari.
 
 
-![percobaan3](img/FormBuku.JPG)
+![percobaan3](img/FormBuku.jpg)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/14_GUI_dan_Database/FormBuku1841720026ntsy.java)
 
@@ -221,11 +221,11 @@ Pada textbox ID Anggota, pengguna tinggal memasukkan ID anggota, kemudian meneka
 tombol Cari. Jika ketemu, maka label “Nama Anggota” yang ada di samping tombol Cari tersebut
 akan menampilkan nama anggota dari ID yang dimasukkan tadi. Begitu juga dengan ID Buku.
 
-![percobaan3](img/Peminjaman.JPG)
+![percobaan3](img/Peminjaman.jpg)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/14_GUI_dan_Database/Peminjaman1841720026ntsy.java)
 
-![percobaan3](img/FormPeminjaman.JPG)
+![percobaan3](img/FormPeminjaman.jpg)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/14_GUI_dan_Database/FormPeminjaman1841720026ntsy.java)
 
