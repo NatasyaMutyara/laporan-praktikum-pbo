@@ -135,9 +135,9 @@ di parameter method JUnitCore.runClasses() saja. Jika test Runner di run
 hasilnya adalah sebagai berikut:
 
 
-![percobaan1a](img/messageProcessor.jpg)
+![percobaan1a](img/MessageProcessor.jpg)
 
-![percobaan1a](img/learnUnitTesting.jpg)
+![percobaan1a](img/LearnUnitTesting.jpg)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/15_Unit_Testing_/MessageProcessor1841720026Ntsy.java)
 
@@ -154,10 +154,10 @@ Tugas:
 ![percobaan1a](img/FormKategori.jpg)
 ![percobaan1a](img/Anggota.jpg)
 ![percobaan1a](img/Kategori.jpg)
-![percobaan1a](img/TestBackendAnggota.jpg)
-![percobaan1a](img/TestBackendKategori.jpg)
+![percobaan1a](img/TestBeckendAnggota.jpg)
+![percobaan1a](img/TestBeckendKategori.jpg)
 
-![percobaan1a](img/learnUnitTesting.jpg)
+![percobaan1a](img/LearnUnitTesting.jpg)
 
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/15_Unit_Testing_/DBHelper1841720026Ntsy.java)
