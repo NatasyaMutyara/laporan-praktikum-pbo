@@ -135,9 +135,9 @@ di parameter method JUnitCore.runClasses() saja. Jika test Runner di run
 hasilnya adalah sebagai berikut:
 
 
-![percobaan1a](img/messageProcessor.JPG)
+![percobaan1a](img/messageProcessor.jpg)
 
-![percobaan1a](img/learnUnitTesting.JPG)
+![percobaan1a](img/learnUnitTesting.jpg)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/15_Unit_Testing_/MessageProcessor1841720026Ntsy.java)
 
@@ -149,15 +149,15 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/15_Unit_T
 Tugas:
 1. Buat test case untuk percobaan kedua pada jobsheet ke 14
 
-![percobaan1a](img/DBHelper.JPG)
-![percobaan1a](img/FormAnggota.JPG)
-![percobaan1a](img/FormKategori.JPG)
-![percobaan1a](img/Anggota.JPG)
-![percobaan1a](img/Kategori.JPG)
-![percobaan1a](img/TestBackendAnggota.JPG)
-![percobaan1a](img/TestBackendKategori.JPG)
+![percobaan1a](img/DBHelper.jpg)
+![percobaan1a](img/FormAnggota.jpg)
+![percobaan1a](img/FormKategori.jpg)
+![percobaan1a](img/Anggota.jpg)
+![percobaan1a](img/Kategori.jpg)
+![percobaan1a](img/TestBackendAnggota.jpg)
+![percobaan1a](img/TestBackendKategori.jpg)
 
-![percobaan1a](img/learnUnitTesting.JPG)
+![percobaan1a](img/learnUnitTesting.jpg)
 
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/15_Unit_Testing_/DBHelper1841720026Ntsy.java)
